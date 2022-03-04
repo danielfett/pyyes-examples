@@ -2,6 +2,9 @@
 
 This repository contains examples for the usage of the pyyes yes® library.
 
+> :warning: **Please read the [license](LICENSE) before using!** This is not an SDK for yes and not part of any contract you might have with yes.com.
+
+
 ## Setup
 ```
 git clone https://github.com/yescom/pyyes-examples.git

@@ -1,4 +1,3 @@
 pyyes
 cherrypy
-yaml
-json
+pyyaml
